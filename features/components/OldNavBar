@@ -1,0 +1,28 @@
+  // <Menu fixed="top" inverted>
+    //   <Container>
+    //     <Menu.Item as={NavLink} to='/' header >
+    //       <img
+    //         className="logo"
+    //         src="/images/logo.png"
+    //         alt="logo"
+    //         style={{ marginRight: "10px" }}
+    //       />
+    //       Bookstore
+    //     </Menu.Item>
+    //       <Menu.Item as={NavLink} to='/' name="Home" style={{ marginRight: "20px", marginLeft: "20px" }}/>
+    //       <Menu.Item as={NavLink} to='/books' name="Books" style={{ marginRight: "20px", marginLeft: "20px" }}/>
+    //       <Menu.Item as={NavLink} to='/blog' name="Blog" style={{ marginRight: "20px", marginLeft: "20px" }}/>
+    //       <Menu.Item as={NavLink} to='/aboutUs' name="About" style={{marginRight: "20px", marginLeft: "20px" }}/>
+    //       <Menu.Item as={NavLink} to='/contact' name="Contact" style={{ marginRight: "20px", marginLeft: "20px" }}/>
+    //       <Menu.Item as={NavLink} to='/dashboard' name="Dashboard" style={{ marginRight: "20px", marginLeft: "20px" }}/>
+    //       <Menu.Item>
+    //       <Icon name='shopping cart' size="big" />
+    //       </Menu.Item>
+         
+    //     <Menu.Item>
+    //       <Button floated="right" as={NavLink} to='/login' content="Login" />
+    //     </Menu.Item>
+
+        
+    //   </Container>
+    // </Menu>
